@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="registration_button_text">Регистрация</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello">Приветствие</string>
+    <string name="error_first_letter_lower_case">Имя должно начинатся с большой буквы</string>
+    <string name="error_contains_number">Имя не должно содержать цифры</string>
+    <string name="error_to_short">Длина имени должна быть больше 1</string>
+    <string name="error_to_long">Длина имени не должна превышать 21</string>
+    <string name="error_empty">Это поле обязательно</string>
+    <string name="error_password_not_equal">Пароль не совпадает</string>
+    <string name="error_not_contains_upper_case">Пароль должен содержать буквы в верхнем регистре</string>
+    <string name="error_not_contains_lower_case">Пароль должен содержать буквы в нижнем регистре</string>
+    <string name="error_not_contains_number">Пароль должен содержать цифры</string>
+    <string name="error_password_to_short">Пароль должен содержать 8 символов</string>
+</resources>
